@@ -63,6 +63,12 @@ Varje lösning har sin plats, och valet beror på de specifika behoven i din app
 
 ---
 
+## Uppgift - GraphQL with MongoDb
+
+[Länk till repo och instruktioner](https://github.com/flindr2/graphql-mongodb/tree/main)
+
+---
+
 ## Uppgift - sample_flix
 
 - Skapa ett GraphQL-schema för collection `movies` i databasen `sample_mflix`
