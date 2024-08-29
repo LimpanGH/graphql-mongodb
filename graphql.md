@@ -8,6 +8,7 @@ marp: true
 
 - GraphQL med MongoDb och mongoose
 - Första examinationsuppgift (grupp-uppgift) skickas ut senare idag
+  - Redovisning och inlämning sista veckan 
 
 ---
 
